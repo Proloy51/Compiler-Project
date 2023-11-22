@@ -1,0 +1,57 @@
+header file found
+header file found
+500
+400
+User Defined found
+Value returns
+User Defined found
+------------ Compiler Design Project--------------
+
+Call the add function
+Summation : 30
+23
+45
+155
+-5
+157
+11 is prime number
+gcd: GCD of 60 and 25 : 5
+60
+lcm: LCM of 60 and 25 : 300
+60
+
+trig + log function: 
+0.707108
+0.707105
+1.000004
+0.301030
+0.693147
+
+Addition of 25 + 53: 78
+Substraction of 100 - 3: 97
+Multiplication of 5 * 7: 35
+division of 400 / 5: 400
+modulus: Modulus of 5 and 3 : 2
+
+power: Power of 5^3 : 125
+factorial : Factorial of 5 : 120
+Prime : 5 is prime number
+odd even func: odd
+sum of digit of : 
+Sum of digits of the number 999 : 27
+reverse of number :
+Reverse of 345235 : 532543
+max and min checking
+Maximum number between 100 and 21 : 100
+Minimum number between 400 and 23 : 23
+
+yolorp
+loopry
+else if executed
+case 4
+ab ab ab ab ab 
+Proloy Proloy Proloy Proloy Proloy 
+
+
+-------------- Successfully executed -----------------
+
